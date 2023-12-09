@@ -1,0 +1,43 @@
+
+      .navbar-brand img {
+        border-radius: 50%;
+        height: 40px;
+
+        }
+      .navbar-toggler-icon{
+        color: blueviolet;
+      }
+      .bgimage{
+        height:100vh;
+        background-size: cover;
+        background: url('./photo.jpg');
+        position: relative;
+      }
+      .hero_title{
+        font-size: 2rem;
+        margin-bottom: 30px;
+      }
+      .hero_desc{
+        font-size: 1.5rem;
+      }
+      .hero-text{
+        text-align: center;
+        transform: translate(-50%,-50%);
+        color: white;
+        top:50%;
+        left:50%;
+        position: absolute;
+      }
+      .icon{
+        margin-top: 7px;
+        width: 2rem;
+        height: 3rem;
+        border-radius: 0.25rem;
+      }
+      .navbar-dark{
+        background-color: black;
+      }
+      .text-muted{
+        color: linear-gradient(red,pink,blue);
+      }
+    
